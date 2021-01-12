@@ -7,7 +7,7 @@ const refs = {
 
 new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('December 29 20'),
+  targetDate: new Date('December 29 22'),
 });
 
 function CountdownTimer(e) {
